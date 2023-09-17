@@ -1,0 +1,10 @@
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\bin\Release\koiraTietoVisa.exe.config
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\bin\Release\koiraTietoVisa.exe
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\bin\Release\koiraTietoVisa.pdb
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Release\koiraTietoVisa.csproj.AssemblyReference.cache
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Release\koiraTietoVisa.Form1.resources
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Release\koiraTietoVisa.Properties.Resources.resources
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Release\koiraTietoVisa.csproj.GenerateResource.cache
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Release\koiraTietoVisa.csproj.CoreCompileInputs.cache
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Release\koiraTietoVisa.exe
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Release\koiraTietoVisa.pdb

@@ -1,0 +1,21 @@
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\bin\Debug\koiraTietoVisa.exe.config
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\bin\Debug\koiraTietoVisa.exe
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\bin\Debug\koiraTietoVisa.pdb
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.csprojAssemblyReference.cache
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.Form1.resources
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.Properties.Resources.resources
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.csproj.GenerateResource.cache
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.csproj.CoreCompileInputs.cache
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.exe
+C:\Users\Piia\Desktop\Ohjelmoinnin perusteet\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.pdb
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\bin\Debug\koiraTietoVisa.exe.config
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\bin\Debug\koiraTietoVisa.exe
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\bin\Debug\koiraTietoVisa.pdb
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.csproj.AssemblyReference.cache
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.csproj.SuggestedBindingRedirects.cache
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.Form1.resources
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.Properties.Resources.resources
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.csproj.GenerateResource.cache
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.csproj.CoreCompileInputs.cache
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.exe
+C:\Users\piiav\koiraTietoVisa\koiraTietoVisa\koiraTietoVisa\obj\Debug\koiraTietoVisa.pdb
